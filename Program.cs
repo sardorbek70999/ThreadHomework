@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace KalkulyatorDasturi
+namespace ThreadHomework
 {
     class Program
     {
