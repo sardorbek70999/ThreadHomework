@@ -5,6 +5,7 @@ namespace ThreadHomework
     class Program
     {
         static int[] elements;
+
         static string FilePath = @"C:\Users\Noutbuk Savdosi\Desktop\G3_Ibroximov_Sardorbek_3_Modul\element111.txt"; // Fayl nomi
 
         static void WriteToFile()
